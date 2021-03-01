@@ -1,0 +1,13 @@
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.exe
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.deps.json
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.runtimeconfig.json
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.runtimeconfig.dev.json
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.dll
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\bin\Debug\netcoreapp3.1\Ejemplo 3.pdb
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.csprojAssemblyReference.cache
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.AssemblyInfoInputs.cache
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.AssemblyInfo.cs
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.csproj.CoreCompileInputs.cache
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.dll
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.pdb
+F:\programacion\Practica 7\Ejemplo 3\Ejemplo 3\Ejemplo 3\obj\Debug\netcoreapp3.1\Ejemplo 3.genruntimeconfig.cache
